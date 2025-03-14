@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "cypress": "^13.4.0"
+    "cypress": "^13.4.0",
+    "frontend": "file:"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
